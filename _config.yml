@@ -1,5 +1,5 @@
 ---
-title: Thầy Bá Phong
+title: Quốc Anh
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để tạo giá trị
+description: Anh Quốc
 theme: minima
-siteurl: http://baphong.com/
+siteurl: httQuoocsquocanh02.github.io/qa/
 permalink: pretty
